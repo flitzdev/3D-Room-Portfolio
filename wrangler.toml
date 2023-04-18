@@ -1,0 +1,6 @@
+name = "FlitzDev"
+type = "javascript"
+
+[env.production]
+workers_dev = false
+route = "yourdomain.com/*"
