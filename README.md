@@ -1,6 +1,6 @@
 # Flitz's Portfolio
 
-**[Live demo](http://flitzdev.github.io/)**
+**[Live demo](http://flitzdev.vercel.app/)**
 
 
 ![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
