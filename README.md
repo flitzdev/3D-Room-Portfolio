@@ -7,7 +7,8 @@
 
 ## Instructions
 
-Download this repo and unachive it then run below commands in your terminal.
+1. Download this repo.
+2. Unachive the zip file.
 
 ```
 npm install
