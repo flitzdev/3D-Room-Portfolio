@@ -7,6 +7,8 @@
 
 ## Instructions
 
+Download this repo and unachive it then run below commands in your terminal.
+
 ```
 npm install
 npm run dev
